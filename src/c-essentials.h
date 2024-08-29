@@ -8,4 +8,6 @@ Refer to LICENCE.txt for more info.
 #include <stdlib.h>
 #include <string.h>
 
-
+void hinstall(char mode, char path) {
+    printf("test");
+}
